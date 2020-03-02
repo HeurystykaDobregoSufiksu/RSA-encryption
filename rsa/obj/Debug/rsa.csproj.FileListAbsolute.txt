@@ -1,0 +1,10 @@
+C:\Users\lucas\Documents\Visual Studio 2017\Projects\rsa\rsa\obj\Debug\rsa.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\Visual Studio 2017\Projects\rsa\rsa\obj\Debug\rsa.Form1.resources
+C:\Users\lucas\Documents\Visual Studio 2017\Projects\rsa\rsa\obj\Debug\rsa.Properties.Resources.resources
+C:\Users\lucas\Documents\Visual Studio 2017\Projects\rsa\rsa\obj\Debug\rsa.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\Visual Studio 2017\Projects\rsa\rsa\obj\Debug\rsa.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Visual Studio 2017\Projects\rsa\rsa\bin\Debug\rsa.exe.config
+C:\Users\lucas\Documents\Visual Studio 2017\Projects\rsa\rsa\bin\Debug\rsa.exe
+C:\Users\lucas\Documents\Visual Studio 2017\Projects\rsa\rsa\bin\Debug\rsa.pdb
+C:\Users\lucas\Documents\Visual Studio 2017\Projects\rsa\rsa\obj\Debug\rsa.exe
+C:\Users\lucas\Documents\Visual Studio 2017\Projects\rsa\rsa\obj\Debug\rsa.pdb
